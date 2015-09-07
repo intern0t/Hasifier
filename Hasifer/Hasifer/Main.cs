@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,15 @@ namespace Hasifer
         public Main()
         {
             InitializeComponent();
+        }
+
+        private void lnkCredits_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Process.Start("https://crackingking.com/member.php?action=profile&uid=2");
+            }
+            catch { }
         }
     }
 }
