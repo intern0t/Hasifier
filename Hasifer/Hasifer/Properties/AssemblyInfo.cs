@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Hasifer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Hash Identifier using simple hash pattern.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Cracking King")]
 [assembly: AssemblyProduct("Hasifer")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © Scarecrow, 2015")]
+[assembly: AssemblyTrademark("Cracking King")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
